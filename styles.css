@@ -61,7 +61,7 @@
 /*--Sytle for Home Section--*/
 .home {
     display: flex;
-    background: url(/html.personalfile/images/car.jpg) no-repeat center;
+    background: url(/images/car.jpg) no-repeat center;
     height: 80vh;
     color: white;
     min-height: 500px;
